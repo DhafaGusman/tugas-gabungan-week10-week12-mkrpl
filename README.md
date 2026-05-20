@@ -25,15 +25,3 @@ Project mencakup:
 | **Dhafa Arrizki Gusman** | Inisiasi repo & finalisasi pipeline | Tahap 1 & 4 |
 | **Muhammad Bintang** | Membuat unit test JUnit & Membuat GitHub Actions + integrasi Snyk | Tahap 2 & 3 |
 
----
-
-## 📊 Ringkasan Git Activity
-
-| Aktivitas | Siapa | Branch |
-|-----------|-------|--------|
-| Initial commit (source + pom.xml) | Dhafa Arrizki Gusman | `main` |
-| Tambah unit test JUnit | Muhammad Bintang | `bintang_unit-test` |
-| Merge PR unit test | Muhammad Bintang | `main` |
-| Tambah GitHub Actions + Snyk | Muhammad Bintang | `bintang_github-action` |
-| Merge PR CI/CD | Dhafa Arrizki Gusman | `main` |
-| Pipeline otomatis berjalan | GitHub Actions | — |
